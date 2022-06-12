@@ -34,8 +34,8 @@ const About = () => {
                 creating things that live on the internet, whether that be
                 websites, applications, or anything in between. My goal is to
                 always build products that provide pixel-perfect and performant
-                experiences. Here are a few technologies I've been working with
-                recently:
+                experiences. Here are a few technologies I{"'"}ve been working
+                with recently:
                 <SkillList>
                   <Skill>HTML {"&"} (S)CSS</Skill>
                   <Skill>JavaScript (ES6+)</Skill>
