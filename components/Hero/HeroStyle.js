@@ -11,6 +11,7 @@ export const HeroSection = styled(Section)`
   height: 100vh;
   position: relative;
   width: 100%;
+  overflow-y: hidden;
 
   /* @media screen and (min-width: 768px) {
     height: 592px;
