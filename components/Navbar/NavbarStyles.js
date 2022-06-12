@@ -21,14 +21,14 @@ export const Nav = styled.nav`
 
 export const NavbarContainer = styled(Container)`
   display: flex;
-  justify-content: start;
+  justify-content: space-between;
   height: 80px;
 `;
 
 export const NavLogo = styled.a`
   color: #141e27;
   justify-self: flex-start;
-  cursor: pointer;
+  /* cursor: pointer; */
   text-decoration: none;
   font-size: 2rem;
   display: flex;
@@ -86,7 +86,7 @@ export const NavMenu = styled.ul`
 
 export const NavItem = styled.li`
   height: 80px;
-  cursor: pointer;
+  /* cursor: pointer; */
 
   @media screen and (max-width: 960px) {
     width: 100%;

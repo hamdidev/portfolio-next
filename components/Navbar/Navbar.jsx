@@ -40,17 +40,19 @@ const Navbar = () => {
           <MobileIcon onClick={() => setShow(!show)}>
             {show ? <FaTimes /> : <CgMenuRight />}
           </MobileIcon>
-          <NavMenu show={show}>
-            {["about", "skills", "work", "testimonials", "contact"].map(
-              (item) => (
-                <NavItem key={item}>
-                  <NavLinks onClick={() => setShow(false)} href={`#${item}`}>
-                    {item}
-                  </NavLinks>
-                </NavItem>
-              )
-            )}
-          </NavMenu>
+          <div>
+            <NavMenu show={show}>
+              {["about", "skills", "work", "testimonials", "contact"].map(
+                (item) => (
+                  <NavItem key={item}>
+                    <NavLinks onClick={() => setShow(false)} href={`#${item}`}>
+                      {item}
+                    </NavLinks>
+                  </NavItem>
+                )
+              )}
+            </NavMenu>
+          </div>
         </NavbarContainer>
       </Nav>
     </IconContext.Provider>
