@@ -49,14 +49,14 @@ export const WorkData = [
     externalLink: "https://nextflix-alpha.vercel.app/",
     image: "/images/work/nextflixx.png",
   },
-  {
-    title: "Payment Site",
-    subtitle: "WEB",
+  // {
+  //   title: "Payment Site",
+  //   subtitle: "WEB",
 
-    description:
-      "Landing Pages, User Flow, Wireframing, Prototyping, Mobile App Design, Web App",
-    githubLink: "https://github.com",
-    externalLink: "https://facebook.com",
-    image: "/images/work/work1.jpg",
-  },
+  //   description:
+  //     "Landing Pages, User Flow, Wireframing, Prototyping, Mobile App Design, Web App",
+  //   githubLink: "https://github.com",
+  //   externalLink: "https://facebook.com",
+  //   image: "/images/work/work1.jpg",
+  // },
 ];

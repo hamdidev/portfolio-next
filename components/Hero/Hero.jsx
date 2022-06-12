@@ -74,7 +74,7 @@ const Hero = () => {
                   className={inView ? "" : "corner"}
                 >
                   {inView ? (
-                    <> Chat with me</>
+                    <> Let&apos;s Chat</>
                   ) : (
                     <FiMail color="white" size="2.3rem" />
                   )}

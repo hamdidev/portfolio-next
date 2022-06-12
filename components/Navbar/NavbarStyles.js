@@ -15,8 +15,8 @@ export const Nav = styled.nav`
   width: 100%;
   background: rgba(255, 255, 255, 0.25);
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
 `;
 
 export const NavbarContainer = styled(Container)`
