@@ -14,12 +14,12 @@ const Contact = () => {
         <ContactWrapper>
           <Title>Get In Touch</Title>
           <Text>
-            I’m currently looking for a better new opportunity, my inbox is
-            always open. Whether you have a question or just want to say hi,
-            I’ll try my best to get back to you!
+            I{"'"}m currently looking for a better new opportunity, my inbox is
+            always open. Whether you have a question or just want to say hi, I
+            {"'"}ll try my best to get back to you!
           </Text>
           <EmailLink
-            href="mailto:itechtranss@gmail.com"
+            href="mailto:hiremhalaf@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >

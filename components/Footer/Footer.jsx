@@ -17,8 +17,8 @@ const Footer = () => {
     <FooterContainer>
       <RightSide>
         <EmailWrapper>
-          <Emaillink href="mailto:itechtranss@gmail.com">
-            itechtranss@gmail.com
+          <Emaillink href="mailto:hiremhalaf@gmail.com">
+            hiremhalaf@gmail.com
           </Emaillink>
         </EmailWrapper>
       </RightSide>
