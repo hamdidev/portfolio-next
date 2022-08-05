@@ -1,5 +1,25 @@
 export const WorkData = [
   {
+    title: "Cred Clone",
+    subtitle: "WEB",
+
+    description:
+      "Landing Pages, User Flow, Wireframing, Prototyping, Mobile App Design, Web App",
+    githubLink: "https://github.com/hamdidev/deziner",
+    externalLink: "https://deziner-hamdidev.vercel.app/",
+    image: "/images/work/cred.png",
+  },
+  {
+    title: "Google Clone",
+    subtitle: "WEB",
+
+    description:
+      "Landing Pages, User Flow, Wireframing, Prototyping, Mobile App Design, Web App",
+    githubLink: "https://github.com/hamdidev/google-twin",
+    externalLink: "https://google-twin-2.vercel.app/",
+    image: "/images/work/google.png",
+  },
+  {
     title: "Pastenette",
     subtitle: "WEB",
 
