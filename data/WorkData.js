@@ -30,6 +30,16 @@ export const WorkData = [
     image: "/images/work/pastanette.jpg",
   },
   {
+    title: "GRAND AKCA Hotel",
+    subtitle: "WEB",
+
+    description:
+      "Landing Pages, User Flow, Wireframing, Prototyping, Mobile App Design, Web App",
+    githubLink: "https://github.com",
+    externalLink: "https://www.grandakca.com/",
+    image: "/images/work/grandhotel.png",
+  },
+  {
     title: "Food🍲 Ingredients Search Database App",
     subtitle: "WEB",
 
@@ -48,6 +58,16 @@ export const WorkData = [
     githubLink: "https://github.com",
     externalLink: "https://vblog-186f6.web.app/",
     image: "/images/work/vblog.png",
+  },
+   {
+    title: "Sigorta Nass",
+    subtitle: "WEB",
+
+    description:
+      "Landing Pages, User Flow, Wireframing, Prototyping, Mobile App Design, Web App",
+    githubLink: "https://github.com",
+    externalLink: "https://sigortanass.com.tr//",
+    image: "/images/work/sigorta.png",
   },
   {
     title: "Reddit Twin",
