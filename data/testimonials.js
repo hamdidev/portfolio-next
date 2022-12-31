@@ -11,7 +11,7 @@ export const TestimonialData = [
     avatar: "/images/avatar-2.jpg",
     name: "Ayman MOUSOLLY",
     review:
-      "Muhammed has a true talent for creating visually appealing and highly functional websites, and they are always willing to go above and beyond to ensure that the end product meets all of the client's needs.",
+      "Muhammed has a true talent for creating visually appealing and highly functional websites, and he is always willing to go above and beyond to ensure that the end product meets all of the client's needs.",
   },
   {
     id: 3,
