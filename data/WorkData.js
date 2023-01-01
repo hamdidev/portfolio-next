@@ -1,4 +1,14 @@
 export const WorkData = [
+    {
+    title: "Realtor Clone",
+    subtitle: "WEB",
+
+    description:
+      "Landing Pages, User Flow, Wireframing, Prototyping, Mobile App Design, Web App",
+    githubLink: "https://github.com/hamdidev/realtor",
+    externalLink: "https://realtor-avjr.vercel.app/",
+    image: "/images/work/realor.png",
+  },
   {
     title: "Cred Clone",
     subtitle: "WEB",
