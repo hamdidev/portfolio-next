@@ -7,7 +7,7 @@ export const WorkData = [
       "Landing Pages, User Flow, Wireframing, Prototyping, Mobile App Design, Web App",
     githubLink: "https://github.com/hamdidev/realtor",
     externalLink: "https://realtor-avjr.vercel.app/",
-    image: "/images/work/realor.png",
+    image: "/images/work/realor.PNG",
   },
   {
     title: "Cred Clone",
